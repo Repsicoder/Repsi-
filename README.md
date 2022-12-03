@@ -33,8 +33,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Repsitechcoder&theme=dark" alt="Repsi" /></p><br>
   </html>
   
-  ![github contribution grid pacman animation](https://raw.githubusercontent.com/Repsitechcoder/Repsitechcoder/output/github-contribution-grid-pacmandark.svg#gh-dark-mode-only)![github contribution grid pacman animation](https://raw.githubusercontent.com/Repsitechcoder/Repsitechcoder/output/github-contribution-grid-pacman.svg#gh-light-mode-only)
-
 
 </html>
 
