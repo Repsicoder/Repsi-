@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Knows-Python-blue,yellow/?logo=Python&logoColor=warning&color=blue,yellow" alt="html">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Repsitechcoder&no-frame=trueno-bg=true" alt="Repsi" /></a> </p>
 
 
 - This is my Github Page
