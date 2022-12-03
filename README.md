@@ -33,6 +33,8 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Repsitechcoder&theme=dark" alt="Repsi" /></p><br>
   </html>
   
+  ![github contribution grid flappy bird animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-flappy-bird.svg#gh-light-mode-only)
+
 
 </html>
 
