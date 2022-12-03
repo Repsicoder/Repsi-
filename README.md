@@ -33,7 +33,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Repsitechcoder&theme=dark" alt="Repsi" /></p><br>
   </html>
   
-  ![github contribution grid flappy bird animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-flappy-bird-dark.svg#gh-dark-mode-only)![github contribution grid flappy bird animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-flappy-bird.svg#gh-light-mode-only)
+  ![github contribution grid flappy bird animation](https://raw.githubusercontent.com/Repsitechcoder/Repsitechcoder/output/github-contribution-grid-flappy-bird-dark.svg#gh-dark-mode-only)![github contribution grid flappy bird animation](https://raw.githubusercontent.com/Repsitechcoder/Repsitechcoder/output/github-contribution-grid-flappy-bird.svg#gh-light-mode-only)
 
 
 </html>
