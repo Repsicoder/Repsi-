@@ -32,6 +32,8 @@
 
 <h2 align="left">Stats</h2>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Repsitechcoder&show_icons=true&theme=dark&locale=en" alt="Repsitechcoder" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Repsitechcoder&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Repsitechcoder" /></p>
+
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Repsitechcoder&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Repsi" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Repsitechcoder&theme=dark" alt="Repsi" /></p><br>
   </html>
