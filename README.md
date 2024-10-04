@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on some random projects and whatever else!
 
 
-- 👨‍💻 All of my projects are available at my repos tab (https://github.com/Repsicoder).
+- 👨‍💻 All of my projects are available at my repos tab (https://github.com/Repsitechcoder).
 
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
